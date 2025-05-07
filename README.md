@@ -1,4 +1,4 @@
-# ☕︎ Estudos-em-Java
+# ☕︎ Estudos em Java
 
 Repositório dedicado aos meus estudos de **Java**. Aqui, você encontrará alguns exercícios simples que me ajudaram na fixação dos conceitos fundamentais da linguagem.
 
