@@ -5,7 +5,10 @@ Repositório dedicado aos meus estudos de **Java**. Aqui, você encontrará algu
 ## ☕︎ Conteúdo
 
 - *Classes e Objetos*;
-- *Visibilidade de Atributos e Métodos*;
+- *Herança, Polimorfismo e Abstração*;
+- *Encapsulamento e Modificadores de Acesso*;
+- *Interfaces e Classes Abstratas*;
+- *Tratamento de Exceções*.
 
 ## ☕︎ Tecnologias
 
