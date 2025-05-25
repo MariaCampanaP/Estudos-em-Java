@@ -16,6 +16,6 @@ Repositório dedicado aos meus estudos de **Java**. Aqui, você encontrará algu
 
 ## ☕︎ Como Usar
 
-1. Clone o repositório
+1. Clone o repositório:
    ```bash
    git clone https://github.com/MariaCampanaP/Estudos-em-Java.git
